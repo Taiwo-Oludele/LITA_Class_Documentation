@@ -1,4 +1,4 @@
-# LITA_Class_Documentation
+# LITA_Class_Documentary
 ## Project Overview 
 ## Data Source
 ## Tools Used
