@@ -6,7 +6,7 @@
 ## Tools Used: Excel, SQL & Power Bi
  ### MS Excel:
  #### Data Cleaning Text : Cleaning involves addressing common issues like extra spaces, blank cells, and spelling errors to ensure a clean and consistent dataset. Proper or Trim etc can be use for this function.
- #### Conditional Formatting.
+ #### Conditional Formatting.: Conditional formatting argument will generate a TRUE result, conditional formatting rule is an If/Then statement along the lines of “If this condition is TRUE, THEN format the cell this way.
  #### Sorting and Filtering
  #### Pivot Tables.
  ### SQL: 
