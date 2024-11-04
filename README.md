@@ -1,4 +1,4 @@
-# LITA Class Work Documentary
+u# LITA Class Work Documentary
 ## Project Overview 
 ####  This project show case  a career path that includes specific class work tasks as to the introduction to Excel,  SQL  and Power BI, which has help me advance to a desirable Data Analyst role. it presents the above  three applications as an all-in-one data management software that allows for easily import, explore, clean, analyze, and visualisation of data. It typically involves a series of related live class samples  that provide me with increasing levels of responsibility and skills developed at LITA organized by the Incubator Hub.
 ## Data Source : Live class works
@@ -16,3 +16,8 @@
  ##### Models : it allows one to filter and highlight data across various visuals and data sources, features that depend on relationships between tables to facilitates report and dashboard.
  ##### Conditional ColumnColumn : it enable one  to create new columns based on values in other columns in your table your table.
  ##### Measure :a measure is evaluated in the context of the cell evaluated in a report or in a DAX query, the context of the cell depends on one selections in the report or on the shape of the DAX query.
+"LITA Class Work Documentary >> README.md
+qit init
+qit add README.md
+qit commit -m "first commit"
+qit remote add origin https://github.com//Lita.git
