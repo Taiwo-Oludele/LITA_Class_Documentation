@@ -15,4 +15,4 @@
  ### Power BI
  #### Models : it allows one to filter and highlight data across various visuals and data sources, features that depend on relationships between tables to facilitates report and dashboard.
  #### Conditional ColumnColumn : it enable one  to create new columns based on values in other columns in your table your table.
- #### Measure
+ #### Measure :a measure is evaluated in the context of the cell evaluated in a report or in a DAX query, the context of the cell depends on one selections in the report or on the shape of the DAX query.
