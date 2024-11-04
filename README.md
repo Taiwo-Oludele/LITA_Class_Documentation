@@ -4,7 +4,7 @@
 ## Data Source : Live class works
 #### Function Text(Excel), Employee Id database (Sql) & HR data ( Power BI)
 ## Tools Used: Excel, SQL & Power Bi
- ### MS EXcel:
+ ### MS Excel:
  #### Data Cleaning using Text
  #### Conditional Formatting.
  #### Sorting and Filtering
@@ -12,7 +12,7 @@
  ### SQL: 
  #### Sql Statement 
  #### Sql Clauses
- #### Power BI
+ ### Power BI
  #### Models
- #### Comditional Column
+ #### Conditional Column
  #### Measure
