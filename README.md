@@ -5,7 +5,7 @@
 #### Function Text(Excel), Employee Id database (Sql) & HR data ( Power BI)
 ## Tools Used: Excel, SQL & Power Bi
  ### MS Excel:
- #### Data Cleaning using Text
+ #### Data Cleaning Text : Cleaning involves addressing common issues like extra spaces, blank cells, and spelling errors to ensure a clean and consistent dataset. Proper or Trim etc can be use for this function.
  #### Conditional Formatting.
  #### Sorting and Filtering
  #### Pivot Tables.
