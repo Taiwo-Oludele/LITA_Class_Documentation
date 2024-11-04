@@ -10,7 +10,7 @@
  ##### Filtering : The VLOOKUP function is a type of filtering in Excel, it searches for a defined value across columns. The function takes a lookup value, table reference, and column index as mandatory parameters.
  #### Pivot Tables : this is a powerful tool to calculate, summarize, and analyze data that lets you see comparisons, patterns, and trends in data.
  ### SQL: Structural Query Language
- #### Sql Statement 
+ #### Sql Statement: A SQL statement is the most fundamental building block of SQL. statement is a command to be understood by the interpreter and executed by the SQL engine. e.g SELECT - extracts data from a database., UPDATE - updates data in a database., DELETE - deletes data from a database., INSERT INTO - inserts new data into a database., CREATE DATABASE - creates a new database., ALTER DATABASE - modifies a database., CREATE TABLE - creates a new table.
  #### Sql Clauses
  ### Power BI
  #### Models
