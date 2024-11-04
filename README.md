@@ -9,5 +9,10 @@
  #### Conditional Formatting.
  #### Sorting and Filtering
  #### Pivot Tables.
- ### SQL: Structured Query Lamguage for querying a data
- ### Github : For portfolio Building
+ ### SQL: 
+ ####:Sql Statement 
+ #### Sql Clauses
+ ### Power BI
+ #### Models
+ #### Comditional Column
+ #### Measure
