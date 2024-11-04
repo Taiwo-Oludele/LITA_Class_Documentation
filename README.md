@@ -11,7 +11,7 @@
  #### Pivot Tables : this is a powerful tool to calculate, summarize, and analyze data that lets you see comparisons, patterns, and trends in data.
  ### SQL: Structural Query Language
  #### Sql Statement: A SQL statement is the most fundamental building block of SQL. statement is a command to be understood by the interpreter and executed by the SQL engine. e.g SELECT - extracts data from a database., UPDATE - updates data in a database., DELETE - deletes data from a database., INSERT INTO - inserts new data into a database., CREATE DATABASE - creates a new database., ALTER DATABASE - modifies a database., CREATE TABLE - creates a new table.
- #### Sql Clauses
+ #### Sql Clauses : sql clauses can help filter out data according to users' needs. The main clauses are SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY, INSERT and JOIN
  ### Power BI
  #### Models
  #### Conditional Column
