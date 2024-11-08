@@ -10,6 +10,7 @@
 <img width="955" alt="function text_2" src="https://github.com/user-attachments/assets/6ad33c6c-3a2e-487d-b714-3a02a1da682e">
 
  ##### Conditional Formatting.: Conditional formatting argument will generate a TRUE result, conditional formatting rule is an If/Then statement along the lines of “If this condition is TRUE, THEN format the cell this way.
+ <img width="959" alt="function text_if" src="https://github.com/user-attachments/assets/11e0377e-85b9-41a7-a6a8-67cf9e0d4d87">
 
  ##### Filtering : The VLOOKUP function is a type of filtering in Excel, it searches for a defined value across columns. The function takes a lookup value, table reference, and column index as mandatory parameters.
  
