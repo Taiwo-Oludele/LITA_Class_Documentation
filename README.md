@@ -32,11 +32,6 @@
   <img width="960" alt="employee_5" src="https://github.com/user-attachments/assets/448f9456-09ec-4fc2-b6c8-d4c61ccfacfe">
   <img width="960" alt="employee_6" src="https://github.com/user-attachments/assets/1cef49c1-396e-4912-ada3-c80f2cbd11c4">
 
-
-
-
-
-
  ### Power BI
  ##### Conditional ColumnColumn : it enable one  to create new columns based on values in other columns in your table your table.
  ##### Measure :a measure is evaluated in the context of the cell evaluated in a report or in a DAX query, the context of the cell depends on one selections in the report or on the shape of the DAX query.
