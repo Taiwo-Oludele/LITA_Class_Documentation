@@ -36,3 +36,6 @@
  ##### Conditional ColumnColumn : it enable one  to create new columns based on values in other columns in your table your table.
  ##### Measure :a measure is evaluated in the context of the cell evaluated in a report or in a DAX query, the context of the cell depends on one selections in the report or on the shape of the DAX query.
  #### Slicer: A slicer is a way to filter data in Power BI. Slicers allow one to interactively filter data by selecting one or more values from a list.
+<img width="601" alt="HP_PB1" src="https://github.com/user-attachments/assets/171c414a-9004-437a-a62e-aee5c684bdf8">
+
+ 
